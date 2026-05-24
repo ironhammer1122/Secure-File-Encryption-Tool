@@ -83,7 +83,7 @@ Uses SHA algorithm for:
 - Data integrity verification
 - Detecting file tampering
 
-### SHA (Secure Hash ALgorithm)
+### SHA (Secure Hash Algorithm)
 
 SHA generates a unique hash value for data. Even a small change in the file produces a completely different hash.
 
@@ -96,7 +96,7 @@ Secure-File-Encryption-Tool/
 │
 ├── Encryptor.java
 ├── Decryptor.java
-├── KeyGeneratorUtil
+├── KeyGeneratorUtil.java
 ├── FileManager.java
 ├── UIFrame.java
 ├── Main.java
