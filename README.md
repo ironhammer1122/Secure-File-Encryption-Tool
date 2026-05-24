@@ -131,10 +131,13 @@ java Main
 # Screenshots
 - Home Interface
 <img width="780" height="556" alt="image" src="https://github.com/user-attachments/assets/a7e9be92-9b64-4721-ae04-945d80e508a5" />
+
 - Selecting file for encryption
 <img width="801" height="574" alt="image" src="https://github.com/user-attachments/assets/41d9c83e-e06d-4417-9570-ed0374617892" />
+
 - Encryption
 <img width="781" height="551" alt="image" src="https://github.com/user-attachments/assets/37b48537-0fb3-431e-9b19-a5d09c80269d" />
+
 - Decryption
 <img width="781" height="558" alt="image" src="https://github.com/user-attachments/assets/3c7dd5b4-b420-441c-8dc9-266317c61ef0" />
 
